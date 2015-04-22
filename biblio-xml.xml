@@ -1,0 +1,22 @@
+<w:p>
+    <w:pPr>
+        <w:spacing w:after="120"/>
+        <w:ind w:left="720" w:hanging="720"/>
+        <w:rPr>
+            <w:rFonts w:ascii="Arial" w:hAnsi="Arial"/>
+        </w:rPr>
+    </w:pPr>
+    <w:r>
+        <w:rPr>
+            <w:rFonts w:ascii="Arial" w:hAnsi="Arial"/>
+        </w:rPr>
+        <w:t>Difbnueroutbnuerntvunritb</w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:rFonts w:ascii="Arial" w:hAnsi="Arial"/>
+            <w:i/>
+        </w:rPr>
+        <w:t>rjvwjrtbjwr</w:t>
+    </w:r>
+</w:p>

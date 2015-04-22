@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>OWI-REF</title>
+</head>
+<script type="text/javascript" src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
+<body>
+Hello World
+
+<a href="/download">DOWNLOAD</a>
+<form method="POST" action="/download">
+	<input type="text" name="myName" />
+	<input type="submit"  value="download" />
+</form>
+<br>
+<form method="POST" action="/coverpage">
+	<input type="text" name="myName" />
+	<input type="submit"  value="cover" />
+</form>
+--------------------------<br>
+<form method="POST" action="/coverpage">
+	<input type="text" name="title" placeholder="Title"><br>
+	<input type="text" name="fullname" placeholder="Full name"><br>
+	<input type="text" name="studentnumber" placeholder="Student number"><br>
+	<input type="text" name="subject" placeholder="Subject"><br>
+	<input type="text" name="major" placeholder="Major"><br>
+	<input type="text" name="handindate" placeholder="Hand-in date"><br>
+	<input type="text" name="lecturer" placeholder="Lecturer"><br>
+	<input type="submit" value="Download Coverpage">
+</form>
+</body>
+</html>
