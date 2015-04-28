@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### WebStorm ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm
  
@@ -47,3 +48,10 @@ crashlytics.properties
 crashlytics-build.properties
 
 node_modules
+=======
+node_modules
+.idea/workspace.xml
+.idea/workspace.xml
+.idea/workspace.xml
+.idea/workspace.xml
+>>>>>>> origin/master
